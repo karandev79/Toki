@@ -24,6 +24,8 @@
   
 <img width="791" height="517" alt="image" src="https://github.com/user-attachments/assets/45479f49-31dd-4508-b029-fab7984b4d5d" />
 
+For Software we will use this emotion setup: https://themochi.huykhong.com
+
 ----
 
 ## CAD
